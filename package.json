@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/branded-record",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interface for Record paired with RecordContext",
   "main": "dist/branded-record.js",
   "types": "dist/branded-record.d.ts",
